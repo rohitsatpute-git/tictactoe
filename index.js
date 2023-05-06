@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
-//comment
+//comment to see changes
 
 function Square (props) {
    
